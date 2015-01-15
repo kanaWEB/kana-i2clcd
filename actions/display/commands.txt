@@ -1,0 +1,2 @@
+bin/lcd.sh [@lcdtype] [@i2cport] [@i2caddress] [%line1] [%line2]
+bin/lcd_off.sh [@lcdtype] [@i2cport] [@i2caddress]

@@ -1,0 +1,1 @@
+Afficher un message de 16 caractères sur 2 lignes

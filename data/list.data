@@ -1,0 +1,6 @@
+<?php
+$data[] = [
+			"text" => "I2C 16x2 LCD",
+			"value" => "i2c16x2LCD"
+			];
+?>
