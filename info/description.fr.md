@@ -1,1 +1,0 @@
-Affiche des informations sur un écran LCD

@@ -1,1 +1,0 @@
-screen,lcd,notifications,gpio,i2c

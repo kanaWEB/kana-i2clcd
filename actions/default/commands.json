@@ -1,0 +1,40 @@
+{
+	"default": {
+		"command": "lcd.sh",
+		"usage" : "lcd.sh lcdtype i2cport i2caddress line1 line2",
+		"args": {
+			"lcdtype": {
+				"type": "Config"
+			},
+			"i2cport": {
+					"type": "Config"
+			},
+			"i2caddress": {
+					"type" : "Config"
+			},
+			"line1": {
+					"type": "Actions",
+					"modifier":"Data"
+			},
+			"line2":{
+					"type":"Actions",
+					"modifier":"Data"
+			}
+		}
+	},
+	"off": {
+		"command": "lcd_off.sh",
+		"usage" : "lcd_off.sh lcdtype i2cport i2caddress",
+		"args": {
+			"lcdtype": {
+				"type": "Config"
+			},
+			"i2cport": {
+				"type": "Config"
+			},
+			"i2caddress": {
+				"type" : "Config"
+			}
+		}
+	}
+}

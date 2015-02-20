@@ -1,0 +1,11 @@
+{
+   "description" : "Display information on a LCD screen",
+   "name" : "LCD Screen",
+   "tags" : {
+      "lcd" : {},
+      "notifications" : {},
+      "gpio" : {},
+      "i2c" : {}
+   },
+   "type" : "gpios"
+}
